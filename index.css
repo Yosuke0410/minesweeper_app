@@ -1,0 +1,14 @@
+.playground {
+	width: 100%;
+}
+.square {
+	text-align: center;
+	vertical-align: middle;
+	border: solid 1px #000000;
+}
+.square[data-memoflg="1"] {
+	color: red;
+}
+/* .square[data-bomflg="1"] {
+	background-color: aqua;
+} */
